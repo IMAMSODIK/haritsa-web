@@ -602,10 +602,10 @@
         <div class="container">
             <div class="hero-content">
                 <div class="hero-text">
-                    <h1>Perlengkapan Bayi Terlengkap & Berkualitas</h1>
-                    <p>Dapatkan semua kebutuhan si kecil dengan kualitas terbaik, harga terjangkau, dan pengiriman cepat. Mulai dari pakaian, mainan, hingga peralatan makan - semua ada di sini!</p>
+                    <h1>Pusat Perlengkapan Bayi Terlengkap dan Termurah di Aceh dan Sumatera Utara</h1>
+                    <p>Gunakan MyHaritsa untuk pengalaman belanja yang lebih baik</p>
                     <div class="hero-buttons">
-                        <a href="#" class="btn-primary">Belanja Sekarang</a>
+                        <a href="#" class="btn-primary">Download Sekarang</a>
                     </div>
                 </div>
                 <div class="hero-visual">
